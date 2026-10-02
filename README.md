@@ -1,11 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a18,100:b5282e&height=170&section=header&text=Pablo%20Carrasco&fontColor=f5f0e8&fontSize=46&fontAlignY=36&desc=Software%20engineer%20%C2%B7%20Valencia%2C%20Spain&descSize=16&descAlignY=58&animation=fadeIn" alt="Pablo Carrasco, software engineer in Valencia, Spain" width="100%">
-</p>
-
-<p align="center">
-  <a href="https://github.com/pablocaeg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3200&pause=1400&color=B5282E&center=true&vCenter=true&width=560&lines=I+build+products+end+to+end;From+the+database+to+the+landing+page;And+run+them+in+production+myself" alt="I build products end to end, from the database to the landing page, and run them in production myself"></a>
-</p>
-
 ### Building
 
 <table>

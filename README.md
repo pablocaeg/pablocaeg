@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://explorinder.com"><img src="https://explorinder.com/og-image.png" alt="Explorinder" width="100%"></a>
+      <a href="https://explorinder.com"><img src="explorinder.png" alt="Explorinder: describe a trip, get it on a map" width="100%"></a>
       <h4><a href="https://explorinder.com">Explorinder</a></h4>
       A free trip planner. Describe a multi-city trip and get a full itinerary on a map, with routes, durations and things to do, ready to edit and share.
     </td>

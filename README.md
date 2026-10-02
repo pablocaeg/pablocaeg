@@ -14,22 +14,3 @@
     </td>
   </tr>
 </table>
-
-### Tools I reach for
-
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,python,go,react,nextjs,svelte,nodejs,fastapi,postgres,docker,linux&perline=11" alt="TypeScript, Python, Go, React, Next.js, Svelte, Node.js, FastAPI, PostgreSQL, Docker, Linux">
-</p>
-
-### Find me
-
-<p>
-  <a href="https://www.linkedin.com/in/pabloce/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://explorinder.com"><img src="https://img.shields.io/badge/explorinder.com-1a1a18?style=for-the-badge&logo=googlemaps&logoColor=white" alt="explorinder.com"></a>
-  <a href="https://sloptotal.com"><img src="https://img.shields.io/badge/sloptotal.com-b5282e?style=for-the-badge&logo=searxng&logoColor=white" alt="sloptotal.com"></a>
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pablocaeg/pablocaeg/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/pablocaeg/pablocaeg/output/snake.svg" alt="My contributions this year, eaten by a snake" width="100%">
-</picture>

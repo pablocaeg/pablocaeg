@@ -10,7 +10,7 @@
     <td width="50%" valign="top">
       <a href="https://github.com/pablocaeg/sloptotal"><img src="https://raw.githubusercontent.com/pablocaeg/sloptotal/master/docs/assets/banner.jpg" alt="SlopTotal" width="100%"></a>
       <h4><a href="https://github.com/pablocaeg/sloptotal">SlopTotal</a> <a href="https://github.com/pablocaeg/sloptotal"><img src="https://img.shields.io/github/stars/pablocaeg/sloptotal?style=social" alt="GitHub stars" align="right"></a></h4>
-      An open-source AI text detector. 23 detectors behind one calibrated score, measured on a public benchmark, with a CLI, an MCP server and a GitHub Action.
+      An open-source AI text detector. 23 detectors behind one calibrated score, measured on a public benchmark of 3,252 texts from 14 current models.
     </td>
   </tr>
 </table>

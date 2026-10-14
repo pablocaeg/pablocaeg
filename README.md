@@ -6,9 +6,9 @@
       <a href="https://explorinder.com"><img src="explorinder.jpg" alt="Explorinder home page" width="100%"></a>
     </td>
     <td valign="top">
-      <h4><a href="https://explorinder.com">Explorinder</a> <a href="https://explorinder.com"><img src="https://img.shields.io/badge/unique%20users-40%2C000%2B-white?style=social" alt="40,000+ unique users" align="right"></a></h4>
+      <h4><a href="https://explorinder.com">Explorinder</a> <a href="https://explorinder.com"><img src="https://img.shields.io/badge/unique%20users-40%2C000%2B-white?style=social" alt="60,000+ unique users" align="right"></a></h4>
       A free trip planner. Describe a multi-city trip and get a full itinerary on a map, with routes, durations and things to do, ready to edit and share.
-      <br><br>Used by more than 40,000 people. Guides for 350 cities in 7 languages, and prices for 4,300 train and bus routes.
+      <br><br>Used by more than 60,000 people. Guides for 350 cities in 7 languages, and prices for 4,300 train and bus routes.
     </td>
   </tr>
   <tr>

@@ -21,14 +21,4 @@
       <br><br>Written up by <a href="https://korben.info/sloptotal-detecteur-texte-ia-local.html">Korben</a>. About 100 texts checked a day on <a href="https://sloptotal.com">sloptotal.com</a>, and 16 outside contributors so far.
     </td>
   </tr>
-  <tr>
-    <td width="44%" valign="top">
-      <a href="https://murcia.chat/en"><img src="murcia-chat.jpg" alt="Murcia.chat home page" width="100%"></a>
-    </td>
-    <td valign="top">
-      <h4><a href="https://murcia.chat/en">Murcia.chat</a></h4>
-      A chat that knows the city of Murcia: fiestas, events, places to eat and go out, its history and local paperwork, in Spanish and English.
-      <br><br>Launched in October 2026.
-    </td>
-  </tr>
 </table>
